@@ -1,4 +1,4 @@
-# text_preprocessing
+# hashtag extraction and tokenization
 Intro:
 This project aims at processing hashtag from social media corpus.
 The test is conducted on nltk twitter_samples. 
